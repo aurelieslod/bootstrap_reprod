@@ -1,0 +1,169 @@
+/* ______Navbar______________*/
+
+.navbar{
+  background-color: #3B5998;
+}
+
+.photoProfil{
+  padding: 10px 15px!important;
+}
+.ip{
+  width: 30px;
+  height: 30px;
+}
+.navbar .glyphicon{
+  color: white;
+}
+.navbar a{
+  color: white !important;
+  font-family: sans-serif;
+}
+
+.dropdown-menu a{
+  color: black !important;
+}
+
+.glyphicon-search{
+  color: #3B5998 !important;
+}
+.form-control{
+  background-color: #FFFFFF;
+  color: #444444 !important;
+}
+
+/*_____________________________ */
+/*div{
+  border: 1px solid black;
+}*/
+body{
+  padding-top:70px;
+  background-color: #DBE5E6;
+  /*padding-left: 2%;*/
+}
+.containerGroup{
+  padding-left: 2%;
+}
+p{
+  font-family: sans-serif;
+}
+.white{
+  background-color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.bold{
+  font-weight: bold;
+}
+/*.img1{
+  height: auto;
+  width: 100%;
+}*/
+.imgBig{
+  min-height: 300px;
+  background-color: #DBE5E6;
+}
+.imgB{
+  width: 100%;
+}
+.areaDiv{
+  min-height: 300px;
+  background-color: #DBE5E6;
+  margin-top: 2%;
+  /*padding-right : 0!important;*/
+
+}
+.divArea{
+  background-color: white;
+  min-height: 300px;
+  padding-top: 2%;
+}
+.titreArea{
+  /*margin-top: 2%;*/
+  background-color: #D5EAED;
+  text-align: right;
+}
+
+.iconArea{
+  margin : 1.5%;
+}
+.inputArea{
+  margin-top: 2%;
+}
+textarea{
+  width: 100%;
+  background-color: #D5EAED;
+  border: none;
+  height: 150px;
+}
+
+.envoie{
+  margin-top: 2%;
+  width: 20%;
+  border: none;
+  background-color: #D5EAED;
+}
+.envoie:hover{
+  background-color: #DBE5E6;
+}
+
+.actu{
+  height: 300px;
+  margin-top: 2%;
+  background-color: white;
+}
+
+.divImgActu{
+  margin-top: 2%;
+  /*border: 1px solid black;*/
+  height: 100px;
+}
+.imgActu{
+  height: 100%;
+}
+.actuTitres{
+  margin-top: 2%;
+}
+.titreActu{
+  background-color: #D5EAED;
+  height: 42px;
+  font-family: sans-serif;
+  padding: 2%;
+  font-weight: bold;
+}
+.subtitreActu{
+  background-color: #D5EAED;
+  height: 42px;
+  margin-top: 2%;
+  font-family: sans-serif;
+  padding: 2%;
+}
+.containerParActu{
+  margin-top: 2%;
+}
+.parActu{
+  background-color: #D5EAED;
+  height: 100px;
+  text-align: justify;
+}
+
+.iconActu{
+  margin-top: 2%;
+  /*height: 30px;*/
+  background-color: #D5EAED;
+  /*border: 1px solid black;*/
+  margin-right: 2%;
+}
+.faActu{
+  margin: 7%;
+}
+
+
+.footer{
+  /*height: 50px;*/
+  background-color: #333838;
+  margin-top: 2%;
+}
+.textFooter{
+  color: white;
+  margin : 2%;
+}
